@@ -6,8 +6,8 @@ Binary Tree Level Order Traversal (https://leetcode.com/problems/binary-tree-lev
 
 # Problem 2
 
-https://leetcode.com/problems/course-schedule/
+Course Schedule (https://leetcode.com/problems/course-schedule/)
 
 # Problem 3
 
-https://leetcode.com/problems/binary-tree-right-side-view/
+Binary Tree Right Side View (https://leetcode.com/problems/binary-tree-right-side-view/)
