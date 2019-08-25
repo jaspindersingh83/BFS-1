@@ -1,7 +1,7 @@
-Time complexity: O(n) where n is the number of nodes in tree
-Space Complexity: O(n)
-Leetcode: It runs on leetcode
-Problem faced: NO
+// Time complexity: O(n) where n is the number of nodes in tree
+// Space Complexity: O(n)
+// Leetcode: It runs on leetcode
+// Problem faced: NO
 
 
 
